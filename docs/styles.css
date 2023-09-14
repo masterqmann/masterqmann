@@ -43,8 +43,8 @@ nav {
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  background-color: rgb(213, 247, 213);
   position: fixed;
+  padding: 100px 0;
   text-align:center;
 }
 
@@ -53,7 +53,6 @@ article {
   -webkit-flex: 3;
   -ms-flex: 3;
   flex: 3;
-  background-color: rgb(213, 247, 213);
   padding: 100px;
 }
 
