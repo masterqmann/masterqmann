@@ -44,7 +44,6 @@ nav {
   -ms-flex: 1;
   flex: 1;
   background-color: rgb(213, 247, 213);
-  padding: 100px 0;
   position: fixed;
   text-align:center;
 }
