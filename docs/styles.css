@@ -62,15 +62,12 @@ p {
   .header {
     background-color:#e5e5e5;
     text-align:center;
-    padding:5px;
-    margin-top:0px;
     width: 100%;
   }
 
 /* The sticky class is added to the header with JS when it reaches its scroll position */
   .sticky {
     position: fixed;
-    top: 5px;
     width: 100%;
   }
 
