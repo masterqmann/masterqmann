@@ -80,6 +80,8 @@ p {
   .footer {
     background-color:#e5e5e5;
     text-align:center;
-    padding:1px;
-    margin-bottom:1px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
   }
